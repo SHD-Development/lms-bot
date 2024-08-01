@@ -1,0 +1,20 @@
+{
+  "name": "lms-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "author": "owen0924",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@lmstudio/sdk": "^0.0.12",
+    "discord.js": "^14.15.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "gitHead": "eb198b1c427b6efc59a0589aed998492ce039d77"
+}

@@ -1,0 +1,8 @@
+module.exports = {
+  model: "lmstudio-community/gemma-2-9b-it-GGUF/gemma-2-9b-it-Q4_K_M.gguf",
+  owners: [""],
+  name: "snowy",
+  prefix: "snowy!",
+  token: "",
+  channels: [""],
+};
