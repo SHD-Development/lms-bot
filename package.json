@@ -11,7 +11,7 @@
   "author": "owen0924",
   "license": "Apache-2.0",
   "dependencies": {
-    "@lmstudio/sdk": "^0.0.12",
+    "@lmstudio/sdk": "^1.1.0",
     "discord.js": "^14.15.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
